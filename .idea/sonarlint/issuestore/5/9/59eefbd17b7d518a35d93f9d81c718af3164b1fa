@@ -1,0 +1,11 @@
+
+c
+java:S3078	"AUse an "AtomicInteger" for this field; its operations are atomic.(ëæûÿÿÿÿÿ8Š¡›‘ê1
+{
+java:S2142d"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8¡›‘ê1
+]	java:S125b"<This block of commented-out lines of code should be removed.(äº“ğüÿÿÿÿ8™‹â‘ê1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(¨ğŒ8¡›‘ê1
+M	java:S106„"+Replace this use of System.out by a logger.(åê·øÿÿÿÿ8¡›‘ê1
+H	java:S106…"+Replace this use of System.out by a logger.(ì†¹È8¨İ›‘ê1
+M	java:S106†"+Replace this use of System.out by a logger.(»ı¥Îûÿÿÿÿ8¨İ›‘ê1
+M	java:S106‡"+Replace this use of System.out by a logger.(µˆ¾ğûÿÿÿÿ8…¿ã‘ê1

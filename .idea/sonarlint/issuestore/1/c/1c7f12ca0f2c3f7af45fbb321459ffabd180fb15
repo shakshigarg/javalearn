@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‘Ç·‘ê1
+J
+java:S1604	"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8‘Ç·‘ê1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8˜Ç·‘ê1
+L	java:S106"+Replace this use of System.out by a logger.(¹‰¸®ÿÿÿÿÿ8™Ç·‘ê1
+E	java:S108")Either remove or fill this block of code.(¤òÏ¶8™Ç·‘ê1
+G	java:S106"+Replace this use of System.out by a logger.(£Ðˆ¯8™Ç·‘ê1

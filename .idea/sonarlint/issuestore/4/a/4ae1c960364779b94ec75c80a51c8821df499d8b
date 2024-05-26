@@ -1,0 +1,26 @@
+
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½¤ÿìê1
+g	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾¤ÿìê1
+Y
+java:S4973L"<Strings and Boxed types should be compared using "equals()".(ˆ†±Ë8¿¤ÿìê1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Î¤ÿìê1
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8Î¤ÿìê1
+G	java:S106"+Replace this use of System.out by a logger.(¥Åî8Î¤ÿìê1
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ï¤ÿìê1
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8Ï¤ÿìê1
+G	java:S106#"+Replace this use of System.out by a logger.(¥Š±§8Ï¤ÿìê1
+`
+java:S16594">Declare "b" and all following declarations on a separate line.(‡ˆæıÿÿÿÿ8Ñ¤ÿìê1
+Q
+java:S16117"4Remove the parentheses around the "packet" parameter(—˜íÃ8Ò¤ÿìê1
+{
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ò¤ÿìê1
+{
+java:S2142O"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ó¤ÿìê1
+E	java:S108L")Either remove or fill this block of code.(ˆ†±Ë8Ó¤ÿìê1
+I
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8Ö¤ÿìê1

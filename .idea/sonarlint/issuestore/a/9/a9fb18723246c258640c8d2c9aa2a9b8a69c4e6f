@@ -1,0 +1,13 @@
+
+`
+java:S3518""CMake sure this expression can't be zero before doing this division.(ЪСЉЦ8ЭЫчий1
+G	java:S106"+Replace this use of System.out by a logger.(Ж‹я8ЯЫчий1
+F	java:S106"+Replace this use of System.out by a logger.(У“¦q8вЫчий1
+R
+java:S1854""5Remove this useless assignment to local variable "r".(ЪСЉЦ8вЫчий1
+G	java:S106"+Replace this use of System.out by a logger.(кЇоЈ8гЫчий1
+L	java:S106"+Replace this use of System.out by a logger.(Ђ«ЃРшяяяя8тЂыий1
+C
+java:S1481""&Remove this unused "r" local variable.(ЪСЉЦ8гЫчий1
+G	java:S106("+Replace this use of System.out by a logger.(шэхЧ8ЄНэий1
+X	java:S125'"<This block of commented-out lines of code should be removed.(‘и“Д8гЫчий1

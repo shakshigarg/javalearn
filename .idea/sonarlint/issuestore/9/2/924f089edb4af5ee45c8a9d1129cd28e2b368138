@@ -1,0 +1,26 @@
+
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(İ¡óûÿÿÿÿ8À’´ìè1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öç‹³8À’´ìè1
+7
+java:S1220""Move this file to a named package.8Á’´ìè1
+S
+java:S1854!"7Remove this useless assignment to local variable "gfg".( ˆÁ8ÔŞÔïè1
+S
+java:S1854"7Remove this useless assignment to local variable "gfg".( ˆÁ8 èÖïè1
+S
+java:S1854"7Remove this useless assignment to local variable "gfg".( ˆÁ8 èÖïè1
+Y
+java:S1854"7Remove this useless assignment to local variable "gfg".(¦Û£¿øÿÿÿÿ8 èÖïè1
+L	java:S106"+Replace this use of System.out by a logger.(µÃµüıÿÿÿÿ8Ä’´ìè1
+L	java:S106"+Replace this use of System.out by a logger.(½Ó¾Áüÿÿÿÿ8Ä’´ìè1
+G	java:S106"+Replace this use of System.out by a logger.(«ˆ‚Æ8Ä’´ìè1
+G	java:S106"+Replace this use of System.out by a logger.(ÿÑù£8Ä’´ìè1
+L	java:S106"+Replace this use of System.out by a logger.(á’‚îıÿÿÿÿ8Ä’´ìè1
+J
+java:S1481"(Remove this unused "gfg" local variable.(¦Û£¿øÿÿÿÿ8ÖŞÔïè1
+F	java:S106"+Replace this use of System.out by a logger.(¸ØïU8Šü×ïè1
+L	java:S106"+Replace this use of System.out by a logger.(İè¬øÿÿÿÿ8îóØïè1
+G	java:S106 "+Replace this use of System.out by a logger.(ºÙ„½8îóØïè1
+F	java:S106""+Replace this use of System.out by a logger.(×Ë D8îóØïè1

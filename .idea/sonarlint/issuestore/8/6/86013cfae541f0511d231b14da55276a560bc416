@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8άπ§θι1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¤Ν‹‹ϊÿÿÿÿ8ÒΚ§θι1
+G	java:S106"+Replace this use of System.out by a logger.(³―Ζ8ΩΚ§θι1
+{
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8ζπ§θι1
+L	java:S106"+Replace this use of System.out by a logger.(°Ν³ϋÿÿÿÿ8©Γ¨θι1
+X	java:S125"<This block of commented-out lines of code should be removed.(ξΧρμ8ΪΚ§θι1
